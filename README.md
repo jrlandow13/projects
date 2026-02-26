@@ -16,7 +16,7 @@ Welcome to my GitHub repository showcasing a collection of data analytics projec
 
 **Projects**
 
-MLB Umpire Analysis
+**MLB Umpire Analysis**
 
 Directory: mlb-umpire
 Description: This project analyzes MLB umpire performance, focusing on strike zone accuracy, call consistency, and impact on game outcomes using publicly available datasets. Built with Python and data visualization in Tableau to identify trends and biases.
