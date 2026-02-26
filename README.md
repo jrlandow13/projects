@@ -15,6 +15,7 @@ Welcome to my GitHub repository showcasing a collection of data analytics projec
 **Career Goal:** Seeking opportunities in data analytics within sports or entertainment industries.
 
 **Projects**
+
 MLB Umpire Analysis
 
 Directory: mlb-umpire
@@ -23,12 +24,14 @@ Key Technologies: Python (pandas, matplotlib), SQL for data querying.
 Highlights: Modeled umpire error rates and visualized heatmaps of strike zones.
 
 
+
 **NBA Prop Bets Predictor**
 
 Directory: nba-prop-bets
 Description: A predictive model for NBA player prop bets (e.g., over/under on points, rebounds). Utilizes historical player stats, machine learning algorithms, and odds data to forecast outcomes and evaluate betting value.
 Key Technologies: Python (scikit-learn for ML, pandas), R for statistical analysis.
 Highlights: Achieved X% accuracy in backtesting; includes Jupyter notebooks for data scraping, model training, and evaluation.
+
 
 
 **Possession Metrics in Soccer**
