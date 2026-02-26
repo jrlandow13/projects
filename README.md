@@ -1,16 +1,16 @@
-# projects
-Jonah Landow's Analytics Projects
-Welcome to my GitHub repository showcasing a collection of data analytics projects focused on sports. As a recent graduate with a Master of Science in Sport Analytics from Syracuse University (December 2025), I am passionate about leveraging data to drive insights in sports and entertainment. My background includes hands-on experience in soccer scouting, data analysis for collegiate teams, and internships in professional sports operations and entertainment (e.g., WWE). This portfolio highlights my skills in Python, R, SQL, Tableau, and other tools to analyze sports data.
-About Me
+# Jonah Landow's Analytics Projects
 
-Education: MS in Sport Analytics (Syracuse University, 4.0 GPA); BA in Policy Studies with a minor in Sport Management (Cum Laude).
-Experience: Scout for Phoenix Rising FC (USL Championship), Volunteer Assistant Coach/Data Analyst for Adelphi University Men's Soccer, and roles in MLS Next Pro, NCAA basketball, and WWE.
-Certifications: FA Talent ID Level 1, PFSA Level 1 Data Analysis in Football, USSF Coaching Licenses.
-Skills: R, Python, SQL, HUDL, Tableau, Microsoft Office, Google Workspace, SPSS, Wyscout, Track160, Kitman Labs, VEO.
-Career Goal: Seeking opportunities in data analytics within sports or entertainment industries.
+Welcome to my GitHub repository showcasing a collection of data analytics projects focused on sports. As a recent graduate with a Master of Science in Sport Analytics from Syracuse University, I am passionate about leveraging data to drive insights in sports and entertainment. My background includes hands-on experience in soccer scouting, data analysis for collegiate teams, and internships in professional sports operations and entertainment (e.g., WWE). This portfolio highlights my skills in Python, R, SQL, Tableau, and other tools to analyze sports data.
 
-For more details, view my resume (replace with actual link if available).
-Projects
+**About Me**
+
+**Education**: Master of Science, Sport Analytics (Syracuse University, 4.0 GPA)
+**Experience:** Scout for Phoenix Rising FC (USL Championship), Volunteer Assistant Coach/Data Analyst for Adelphi University Men's Soccer, and roles in MLS Next Pro, NCAA basketball, and WWE.
+**Certifications:** FA Talent ID Level 1, PFSA Level 1 Data Analysis in Football, USSF Coaching Licenses.
+**Skills:** R, Python, SQL, HUDL, Tableau, Microsoft Office, Google Workspace, SPSS, Wyscout, Track160, Kitman Labs, VEO.
+**Career Goal:** Seeking opportunities in data analytics within sports or entertainment industries.
+
+**Projects**
 MLB Umpire Analysis
 
 Directory: mlb-umpire
@@ -18,14 +18,16 @@ Description: This project analyzes MLB umpire performance, focusing on strike zo
 Key Technologies: Python (pandas, matplotlib), SQL for data querying.
 Highlights: Modeled umpire error rates and visualized heatmaps of strike zones.
 
-NBA Prop Bets Predictor
+
+**NBA Prop Bets Predictor**
 
 Directory: nba-prop-bets
 Description: A predictive model for NBA player prop bets (e.g., over/under on points, rebounds). Utilizes historical player stats, machine learning algorithms, and odds data to forecast outcomes and evaluate betting value.
 Key Technologies: Python (scikit-learn for ML, pandas), R for statistical analysis.
 Highlights: Achieved X% accuracy in backtesting; includes Jupyter notebooks for data scraping, model training, and evaluation.
 
-Possession Metrics in Soccer
+
+**Possession Metrics in Soccer**
 
 Directory: possession
 Description: Analysis of possession-based metrics in soccer, examining how possession correlates with scoring opportunities, team success, and player contributions. Draws from match data to compute advanced stats like expected goals (xG) and passing networks.
