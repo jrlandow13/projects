@@ -5,9 +5,13 @@ Welcome to my GitHub repository showcasing a collection of data analytics projec
 **About Me**
 
 **Education**: Master of Science, Sport Analytics (Syracuse University, 4.0 GPA)
+
 **Experience:** Scout for Phoenix Rising FC (USL Championship), Volunteer Assistant Coach/Data Analyst for Adelphi University Men's Soccer, and roles in MLS Next Pro, NCAA basketball, and WWE.
+
 **Certifications:** FA Talent ID Level 1, PFSA Level 1 Data Analysis in Football, USSF Coaching Licenses.
+
 **Skills:** R, Python, SQL, HUDL, Tableau, Microsoft Office, Google Workspace, SPSS, Wyscout, Track160, Kitman Labs, VEO.
+
 **Career Goal:** Seeking opportunities in data analytics within sports or entertainment industries.
 
 **Projects**
